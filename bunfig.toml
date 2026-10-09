@@ -1,0 +1,2 @@
+[install]
+cafile = "/etc/ssl/cert.pem"
