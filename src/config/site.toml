@@ -1,11 +1,11 @@
 [config.site]
-title = "navfolio"
-description = "A personal navigation portfolio starter built with Astro."
-pageTitle = "navfolio | Digital Publication Space"
-pageDescription = "A calm AI-native personal publication space for notes, links, and writing."
+title = "超超"
+description = "是一个由秦超创建的个人博客，主要分享计算机相关知识学习心得及体会。"
+pageTitle = "超超的博客 | 记录一些想法"
+pageDescription = "记录巧思、项目与日常。"
 url = "https://astro.navfolio.site"
-repository = "https://github.com/dodolalorc/astro-navfolio"
-footerNote = "Released as an open-source starter."
+repository = "https://github.com/kkkh/Q-blog"
+footerNote = "用 Astro 构建 · 记录生活与想法"
 
 [config.theme]
 # 可用色盘：
@@ -43,14 +43,14 @@ show_on_posts = true
 [config.search]
 enabled = true
 shortcut = "mod+k"
-placeholder = "Search notes..."
+placeholder = "搜索 文章..."
 maxResults = 6
 
 [config.pages.blog]
-title = "Writing notes"
-kicker = "Notebook archive"
-subtitle = "Notes from the margins."
-note = "Field notes, drafts, and technical margins arranged for slow browsing."
+title = "撰写 想法"
+kicker = "构想 归档"
+subtitle = "好运常伴"
+note = "静下心来感受文字的力量"
 postsPerPage = 6
 # date-fns 使用的日期格式模板。
 dateFormat = "yyyy-MM-dd"
